@@ -1,0 +1,30 @@
+{
+  "providerName": "Millerprise Entertainment",
+  "lastUpdated": "2026-11-07T16:05:00Z",
+  "language": "en-US",
+  "liveFeeds": [
+    {
+      "id": "miller_hearth_001",
+      "title": "Cozy Oklahoma Fireplace & Distant Highway Rain (10 Hour Loop)",
+      "description": "Premium ambient crackling fireplace background textures combined with rolling I-40 rain white noise for deep sleep, relaxation, and focus.",
+      "thumbnail": "https://github.io",
+      "branding": {
+        "themeColor": "#D4AF37"
+      },
+      "content": {
+        "dateAdded": "2026-11-07T16:05:00Z",
+        "videos": [
+          {
+            "url": "https://github.io",
+            "quality": "HD",
+            "videoType": "mp4",
+            "bitrate": 4000
+          }
+        ],
+        "duration": 600,
+        "playMode": "loop",
+        "adBreaks": ["00:03:00", "00:06:00", "00:09:00"]
+      }
+    }
+  ]
+}
