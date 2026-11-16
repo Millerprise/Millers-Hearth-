@@ -15,15 +15,18 @@
         "dateAdded": "2026-11-07T16:05:00Z",
         "videos": [
           {
-            "url": "https://github.io",
+            "url": "https://millerprise.github.io/Millers-Hearth-/fireplace_loop.mp4",
             "quality": "HD",
             "videoType": "mp4",
             "bitrate": 4000
           }
         ],
-        "duration": 600,
+        "duration": 37,
         "playMode": "loop",
-        "adBreaks": ["00:03:00", "00:06:00", "00:09:00"]
+        "adBreaks": ["00:00:00"]
+
+
+
       }
     }
   ]
